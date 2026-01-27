@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **zyusuf_be24@thapar.edu** For Collaboration/Project or Any
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_zaid.05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaid-yusuf-219913348) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zyusuf_be24@thapar.edu) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__zaid.05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaid-yusuf-219913348) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zyusuf_be24@thapar.edu) 
 
 <!-- Snake Game Repo View -->
 
