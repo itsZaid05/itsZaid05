@@ -1,14 +1,13 @@
 # 💫 Hi 👋, I'm ZAID YUSUF
 **AI/ML DEVELOPER || BUILDING INNOVATIVE SOLUTIONS FOR COMPLEX PROBLEM**
 
-Email Me 👉 ✉️ **zyusuf_be24@thapar.edu** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **zyusuf_be24@thapar.edu** For Collaboration/Project or Anything Else.
 
 - 🔭 **I’m currently working on:** NYAYSAATHI - AI BASED LEGAL ADVISOR
 - 🌱 **I’m currently learning:** BUILDING AI AGENTS USING LANGGRAPH
 - 👯 **I’m looking to collaborate on**:NYAYSAATHI AND FITNESS ASSESMENT APP
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** zyusuf_be24@thapar.edu
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__zaid.05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaid-yusuf-219913348) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zyusuf_be24@thapar.edu) 
@@ -32,4 +31,3 @@ Email Me 👉 ✉️ **zyusuf_be24@thapar.edu** For Collaboration/Project or Any
 ---
 [![](https://visitcount.itsvg.in/api?id=itsZaid05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
